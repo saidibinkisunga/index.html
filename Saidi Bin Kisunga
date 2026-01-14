@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Saidi Bin Kisunga André</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Saidi Bin Kisunga André</h1>
+    <p>Biographie personnelle</p>
+</header>
+
+<section>
+    <h2>Présentation</h2>
+    <p>
+        Je m'appelle <strong>Saidi Bin Kisunga André</strong>.  
+        Ce site est dédié à ma biographie, à mon parcours et à mes valeurs.
+    </p>
+</section>
+
+<section>
+    <h2>Biographie</h2>
+    <p>
+        Né et grandi en République Démocratique du Congo,  
+        je suis une personne passionnée par l’apprentissage, la connaissance
+        et le développement personnel.
+    </p>
+    <p>
+        À travers mon parcours, j’ai toujours cherché à comprendre le monde,
+        à évoluer et à contribuer positivement à la société.
+    </p>
+</section>
+
+<section>
+    <h2>Parcours et centres d’intérêt</h2>
+    <ul>
+        <li>Éducation et formation personnelle</li>
+        <li>Technologie et innovation</li>
+        <li>Culture, société et valeurs humaines</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Valeurs et vision</h2>
+    <p>
+        Je crois en la discipline, le respect, le travail et l’apprentissage continu.
+        Mon objectif est de grandir chaque jour et d’avoir un impact positif
+        autour de moi.
+    </p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email : saidi@example.com</p>
+</section>
+
+<footer>
+    <p>© 2026 – Saidi Bin Kisunga André</p>
+</footer>
+
+</body>
+</html>
